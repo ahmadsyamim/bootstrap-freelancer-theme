@@ -1,0 +1,7 @@
+{
+    "name": "Freelancer",
+    "package_name": "ahmadsyamim/bootstrap-freelancer-theme",
+    "extends": "",
+    "asset-path": "Freelancer",
+    "views-path": "Freelancer"
+}

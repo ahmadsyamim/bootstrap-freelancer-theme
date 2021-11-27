@@ -1,0 +1,1 @@
+@include('Freelancer.modules.auth.passwords.reset')
